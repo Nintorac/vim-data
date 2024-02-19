@@ -7,6 +7,7 @@ authors = ["Oliver"]
 [tool.poetry.dependencies]
 python = "^3.11"
 tqdm = "^4.66.1"
+gitpython = "^3.1.41"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
