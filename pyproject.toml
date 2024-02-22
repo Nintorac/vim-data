@@ -8,6 +8,7 @@ authors = ["Oliver"]
 python = "^3.11"
 tqdm = "^4.66.1"
 gitpython = "^3.1.41"
+jupytext = "^1.16.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"

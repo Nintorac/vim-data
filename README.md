@@ -97,3 +97,7 @@ And we can then playback the recprding like so
 ## Resources
 
 [VimGPT](https://github.com/nsbradford/VimGPT) - an existing agent setup, they note GPT-4 is the only model really capable of this task at the moment
+
+[asciinema - term rec to gif](https://github.com/asciinema/agg)
+
+[Obsidian Zola](https://github.com/ppeetteerrs/obsidian-zola)
