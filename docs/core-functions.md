@@ -39,6 +39,6 @@ from pathlib import Path
 Path('hello_world_rec.asciicast').write_text(await record_vim_terminal('iHello, Vim!\033'))
 ```
 
-And we can then playback the recprding like so
+And we can then playback the recording like so
 
-![vim recording example](https://github.com/Nintorac/vim-data/assets/24326299/9d9e5f7a-1bae-411d-b5fb-c23d450c1c2dterm_rec_example.gif)
+![[term_rec_example.gif|Alt lol]]
